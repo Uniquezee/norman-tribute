@@ -27,7 +27,7 @@
     margin-right: auto;
     border: 10px;
     padding: 5px;
-    width: 1000px;
+    max-width: 100%;
     background-color: antiquewhite;
 }
 #img-div{
