@@ -1,7 +1,6 @@
 /* style.css */
 * {
-    margin: 10 10 10 10;
-    padding: 20;
+    margin: 10 10;
     box-sizing: border-box;
     font-family: sans-serif;
     image-rendering: auto;
@@ -16,7 +15,6 @@
    }
     #main{
        text-align: center;
-       width: 20;
        background-color: rgb(9, 34, 34);
        padding: 30px;
        border-radius: 10px;
